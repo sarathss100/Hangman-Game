@@ -1,0 +1,1 @@
+wordlist = ["apple", "banana", "cherry", "date"]
